@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670648957614",
+    "project_id": "zxds-79195",
+    "storage_bucket": "zxds-79195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670648957614:android:90184fa2901267f99b4b3f",
+        "android_client_info": {
+          "package_name": "com.example.foodfly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ9SWf7BxG1AGVjahbpddcDYc6Wn_iJeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
